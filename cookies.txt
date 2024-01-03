@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	ulpvi	88aeaa2781bbcde870230b6f8d1dded1
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	lpvi	88aeaa2781bbcde870230b6f8d1dded1
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	lid	17ecba16b2109fe9b322384e792021d4
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	TRACK_VISIT	%257B%2522url_to%2522%253A%2522https%253A%255C%252F%255C%252Fwww.noitadadesexo.com%255C%252F%253Futm_sub%253Dseo_brand%2522%252C%2522url_from%2522%253Anull%252C%2522date%2522%253A%25222024-01-03%2B13%253A09%253A09%2522%252C%2522source%2522%253A%2522direct%2522%252C%2522cluid%2522%253Anull%252C%2522trackVisitId%2522%253A%252288aeaa2781bbcde870230b6f8d1dded1%2522%257D
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	PHPSESSID	efaf83cd2a36f56bbc91a56a1652340b
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	pub_locale	en
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	pub_cookieBootstrapParams	%7B%22inAppBrowserName%22%3A%22notInApp%22%2C%22enablePwa%22%3Afalse%7D
+.noitadadesexo.com	TRUE	/	FALSE	1999999999	_uuid	65955c75001e37.44551439
+www.noitadadesexo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
